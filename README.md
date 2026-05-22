@@ -181,6 +181,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. TL;DR: open a PR with the
 
 ---
 
+## Related
+
+- **[leakcode-cli](https://github.com/techreign/leakcode-cli)** -- Command-line tool for browsing and searching the LeakCode interview question database from your terminal. Search, filter by company, and view questions without leaving your editor.
+- **[Interview Questions Aggregated Sample (Kaggle)](https://www.kaggle.com/datasets/manifoldinfo/interview-questions-aggregated-sample)** -- Public dataset: top 100 companies ranked by aggregated interview question count, extracted from the LeakCode database. CSV format, CC-BY-4.0. Useful for researchers and data scientists studying tech hiring patterns.
+- **[LeakCode](https://leakcode.dev)** -- The full live database. 59,970+ questions, 2,000+ companies, 7 sources, updated daily.
+
+---
+
 ## Star This Repo
 
 If this list helped your prep, star it. New sources and updates are added periodically. Watch the repo to get notified.
