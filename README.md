@@ -81,6 +81,9 @@ Curated entry points into the LeakCode database for the most-searched topics.
 - [RSS feed](https://leakcode.dev/feed.xml) -- new blog posts, comparison guides, and changelog entries.
 - [Atom feed](https://leakcode.dev/feed.atom) -- same content, Atom 1.0 format.
 
+**Standalone data analysis**
+- [FAANG Interview Data 2026 (gist)](https://gist.github.com/techreign/ab49b8148b0eed136bef495d0d6d26e1) -- pattern analysis from 51,000+ candidate reports: coding difficulty by company, system design penetration by level, behavioral LP clustering, compensation bands.
+
 ---
 
 ## Forums and Community Sources
