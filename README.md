@@ -14,6 +14,7 @@
 ## Table of Contents
 
 - [Why This Exists](#why-this-exists)
+- [LeakCode Deep Links](#leakcode-deep-links)
 - [Forums and Community Sources](#forums-and-community-sources)
 - [Company-Specific Resources](#company-specific-resources)
 - [Newsletters and Digests](#newsletters-and-digests)
@@ -33,6 +34,52 @@
 Interview preparation is fragmented across dozens of sites, forums, and paywalls. Engineers waste hours searching for real, company-specific questions that other candidates actually reported seeing. This list consolidates the best public sources.
 
 For a single interface that searches across all of them with filters by company, topic, difficulty, and recency, see [LeakCode](https://leakcode.dev) -- the only aggregator that pulls from 7+ sources including translated content from Chinese forums (1Point3Acres, Nowcoder).
+
+---
+
+## LeakCode Deep Links
+
+Curated entry points into the LeakCode database for the most-searched topics.
+
+**By topic**
+- [Dynamic programming interview questions](https://leakcode.dev/topic/dynamic-programming-interview-questions)
+- [System design interview questions](https://leakcode.dev/topic/system-design-interview-questions)
+- [Behavioral interview questions](https://leakcode.dev/topic/behavioral-interview-questions)
+- [Binary tree interview questions](https://leakcode.dev/topic/binary-tree-interview-questions)
+- [Graph interview questions](https://leakcode.dev/topic/graph-interview-questions)
+- [OA / online assessment questions](https://leakcode.dev/topic/oa-online-assessment-questions)
+- [Coding phone screen questions](https://leakcode.dev/topic/coding-phone-screen-questions)
+- [Hardest LeetCode problems by interview frequency](https://leakcode.dev/topic/leetcode-hard-problems)
+- [Two pointer interview questions](https://leakcode.dev/topic/two-pointer-interview-questions)
+- [Amazon leadership principles questions](https://leakcode.dev/topic/leadership-principles-amazon-questions)
+- [Sliding window interview questions](https://leakcode.dev/topic/sliding-window-interview-questions)
+- [Bit manipulation interview questions](https://leakcode.dev/topic/bit-manipulation-interview-questions)
+- [Trie data structure interview questions](https://leakcode.dev/topic/trie-data-structure-interview-questions)
+- [Heap / priority queue interview questions](https://leakcode.dev/topic/heap-priority-queue-interview-questions)
+- [LRU cache interview questions](https://leakcode.dev/topic/lru-cache-interview-questions)
+- [SQL interview questions](https://leakcode.dev/topic/sql-interview-questions)
+
+**By company**
+- [Amazon interview questions](https://leakcode.dev/company/amazon)
+- [Google interview questions](https://leakcode.dev/company/google)
+- [Meta interview questions](https://leakcode.dev/company/meta)
+- [Microsoft interview questions](https://leakcode.dev/company/microsoft)
+- [Apple interview questions](https://leakcode.dev/company/apple)
+- [OpenAI interview questions](https://leakcode.dev/company/openai)
+- [Netflix interview questions](https://leakcode.dev/company/netflix)
+- [Stripe interview questions](https://leakcode.dev/company/stripe)
+- [Browse all 2,000+ companies](https://leakcode.dev/browse)
+
+**Comparison guides**
+- [LeakCode vs LeetCode Premium](https://leakcode.dev/compare/leakcode-vs-leetcode-premium)
+- [LeakCode vs Glassdoor](https://leakcode.dev/compare/leakcode-vs-glassdoor)
+- [LeakCode vs Blind](https://leakcode.dev/compare/leakcode-vs-blind)
+- [LeakCode vs Educative](https://leakcode.dev/compare/leakcode-vs-educative)
+- [LeakCode vs AlgoExpert](https://leakcode.dev/compare/leakcode-vs-algoexpert)
+
+**Feeds**
+- [RSS feed](https://leakcode.dev/feed.xml) -- new blog posts, comparison guides, and changelog entries.
+- [Atom feed](https://leakcode.dev/feed.atom) -- same content, Atom 1.0 format.
 
 ---
 
