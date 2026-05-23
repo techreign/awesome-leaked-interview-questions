@@ -83,6 +83,7 @@ Curated entry points into the LeakCode database for the most-searched topics.
 
 **Standalone data analysis**
 - [FAANG Interview Data 2026 (gist)](https://gist.github.com/techreign/ab49b8148b0eed136bef495d0d6d26e1) -- pattern analysis from 51,000+ candidate reports: coding difficulty by company, system design penetration by level, behavioral LP clustering, compensation bands.
+- [faang-interview-patterns-2026 (repo)](https://github.com/techreign/faang-interview-patterns-2026) -- structured CSV datasets covering coding pattern distribution, system design penetration, compensation bands, behavioral LP frequency, and top system design problems. CC BY 4.0.
 
 ---
 
